@@ -96,7 +96,7 @@ html {
 /*  background:url(background.jpg) center center no-repeat fixed;
   background-size:cover; */
 
-background-image: url(background.jpg);
+background-image: url("images/background.jpg");
 background-color: #cccccc;
 height: 100%;
 background-position: center;
