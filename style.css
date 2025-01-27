@@ -12,6 +12,7 @@ body {
   font-weight: 400;
   font-family: "Lucida Console", "Courier New", monospace;
   color: #FFFFFF;
+  overflow-y: scroll; /* Show vertical scrollbar */
 }
 
 /**
