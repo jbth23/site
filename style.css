@@ -21,7 +21,7 @@ body {
 a {
   font-weight: normal;
   text-decoration: none; 
-  color:#984a4a;
+  color:#8f0b0b;
 }
 a:focus {
   outline: thin dotted;
@@ -133,7 +133,7 @@ ul.main-menu li a:hover {
 }
 ul.main-menu li a.active {
   color:#FFFFFF;
-  border-bottom-color:#710606;
+  border-bottom-color:#8f0b0b;
 }
 
 /* Utility classes */
